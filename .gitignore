@@ -1,0 +1,14 @@
+*_data*/
+data
+*legacy*
+.virtual_documents
+*trained_models*
+.ipynb_checkpoints
+__pycache__
+*.pyc
+**/*.ipynb_checkpoints/
+*/.ipynb_checkpoints
+*saved_model*
+*.zip
+*stats*
+*jpg_compressed*
